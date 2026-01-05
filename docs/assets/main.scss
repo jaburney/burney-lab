@@ -14,3 +14,17 @@
 .page-heading {
   font-size: 28px !important;
 }
+
+// Homepage spacing adjustments
+.page-content {
+  padding: 20px 0 10px 0;
+}
+
+.home .page-content,
+body > .page-content {
+  min-height: auto !important;
+}
+
+.wrapper {
+  padding-bottom: 10px;
+}
