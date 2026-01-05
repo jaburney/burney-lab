@@ -4,17 +4,17 @@ title: Publications
 permalink: /publications/
 ---
 
-1. J.A. Burney, Eliminating hunger in a world serious about climate mitigation, *Proceedings of the National Academy of Sciences* (2025). DOI: [10.1073/pnas.2410202122](https://doi.org/10.1073/pnas.2410202122)
+1. D. Taren, H. Alaofè, J. Burney, H. Luo, P.S. Suchdev, J.M. Long, R. Naylor, Women-led sustainable irrigation improved indicators of nutritional status in children from Northern Benin, *Journal of Health, Population and Nutrition* (2025). DOI: [10.1186/s41043-025-01168-8](https://doi.org/10.1186/s41043-025-01168-8)
 
-2. E. Krasovich Southworth, M. Qiu, C.F. Gould, A. Kawano, J. Wen, S. Heft-Neal, K. Kilpatrick Voss, A. Lopez, S. Fendorf, J.A. Burney, M. Burke, The Influence of Wildfire Smoke on Ambient PM2.5 Chemical Species Concentrations in the Contiguous US, *Environmental Science & Technology* (2025). DOI: [10.1021/acs.est.4c09011](https://doi.org/10.1021/acs.est.4c09011)
+2. P. Polonik, J. Burney, K. Ricke, Emulation of the Climate Response to Greenhouse Gas and Aerosol Emissions From High‐ and Low‐Income Nations, *Geophysical Research Letters* (2025). DOI: [10.1029/2025GL117841](https://doi.org/10.1029/2025GL117841)
 
-3. P. Polonik, K. Ricke, J. Burney, Estimating the impacts of climate change: reconciling disconnects between physical climate and statistical models, *Climatic Change* (2025). DOI: [10.1007/s10584-025-03868-w](https://doi.org/10.1007/s10584-025-03868-w)
+3. Y. Jiang, J.A. Burney, Crop water origins and hydroclimate vulnerability of global croplands, *Nature Sustainability* (2025). DOI: [10.1038/s41893-025-01662-1](https://doi.org/10.1038/s41893-025-01662-1)
 
-4. Y. Jiang, J.A. Burney, Crop water origins and hydroclimate vulnerability of global croplands, *Nature Sustainability* (2025). DOI: [10.1038/s41893-025-01662-1](https://doi.org/10.1038/s41893-025-01662-1)
+4. J.A. Burney, Eliminating hunger in a world serious about climate mitigation, *Proceedings of the National Academy of Sciences* (2025). DOI: [10.1073/pnas.2410202122](https://doi.org/10.1073/pnas.2410202122)
 
-5. P. Polonik, J. Burney, K. Ricke, Emulation of the Climate Response to Greenhouse Gas and Aerosol Emissions From High‐ and Low‐Income Nations, *Geophysical Research Letters* (2025). DOI: [10.1029/2025GL117841](https://doi.org/10.1029/2025GL117841)
+5. E. Krasovich Southworth, M. Qiu, C.F. Gould, A. Kawano, J. Wen, S. Heft-Neal, K. Kilpatrick Voss, A. Lopez, S. Fendorf, J.A. Burney, M. Burke, The Influence of Wildfire Smoke on Ambient PM2.5 Chemical Species Concentrations in the Contiguous US, *Environmental Science & Technology* (2025). DOI: [10.1021/acs.est.4c09011](https://doi.org/10.1021/acs.est.4c09011)
 
-6. D. Taren, H. Alaofè, J. Burney, H. Luo, P.S. Suchdev, J.M. Long, R. Naylor, Women-led sustainable irrigation improved indicators of nutritional status in children from Northern Benin, *Journal of Health, Population and Nutrition* (2025). DOI: [10.1186/s41043-025-01168-8](https://doi.org/10.1186/s41043-025-01168-8)
+6. P. Polonik, K. Ricke, J. Burney, Estimating the impacts of climate change: reconciling disconnects between physical climate and statistical models, *Climatic Change* (2025). DOI: [10.1007/s10584-025-03868-w](https://doi.org/10.1007/s10584-025-03868-w)
 
 7. Y. Yang, D. Tilman, Z. Jin, P. Smith, C.B. Barrett, Y.G. Zhu, J. Burney, P. D'Odorico, P. Fantke, J. Fargione, J.C. Finlay, M.C. Rulli, L. Sloat, K.J. van Groenigen, P.C. West, L. Ziska, A.M. Michalak, Climate change exacerbates the environmental impacts of agriculture, *Science* (2024). DOI: [10.1126/science.adn3747](https://doi.org/10.1126/science.adn3747)
 
