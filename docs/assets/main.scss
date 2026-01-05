@@ -18,13 +18,29 @@
 // Homepage spacing adjustments
 .page-content {
   padding: 20px 0 10px 0;
+  min-height: auto !important;
+  max-height: none !important;
 }
 
 .home .page-content,
 body > .page-content {
   min-height: auto !important;
+  padding-bottom: 10px !important;
 }
 
 .wrapper {
   padding-bottom: 10px;
+  margin-bottom: 0 !important;
+}
+
+// Fix spacing specifically for homepage
+body.home {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+body.home .site-footer {
+  margin-top: auto;
+  padding-top: 10px;
 }
