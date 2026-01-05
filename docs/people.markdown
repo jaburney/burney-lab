@@ -7,7 +7,7 @@ permalink: /people/
 ## Principal Investigator
 
 <div style="display: flex; align-items: start; margin-bottom: 2em;">
-  <img src="/images/people/jen.jpeg" alt="Jen Burney" style="width: 200px; height: 200px; object-fit: cover; margin-right: 20px; border-radius: 5px;">
+  <img src="{{ "/images/people/jen.jpeg" | relative_url }}" alt="Jen Burney" style="width: 200px; height: 200px; object-fit: cover; margin-right: 20px; border-radius: 5px;">
   <div>
     <h3 style="margin-top: 0;">Jen Burney</h3>
     <p><strong>Professor, Global Environmental Policy and Earth System Science<br>
@@ -22,7 +22,7 @@ permalink: /people/
 ## Postdoctoral Scholars
 
 <div style="display: flex; align-items: start; margin-bottom: 2em;">
-  <img src="/images/people/pascal.jpg" alt="Pascal Polonik" style="width: 200px; height: 200px; object-fit: cover; margin-right: 20px; border-radius: 5px;">
+  <img src="{{ "/images/people/pascal.jpg" | relative_url }}" alt="Pascal Polonik" style="width: 200px; height: 200px; object-fit: cover; margin-right: 20px; border-radius: 5px;">
   <div>
     <h3 style="margin-top: 0;">Pascal Polonik</h3>
     <p><strong>Postdoctoral Scholar</strong></p>
@@ -33,7 +33,7 @@ permalink: /people/
 </div>
 
 <div style="display: flex; align-items: start; margin-bottom: 2em;">
-  <img src="/images/people/yan.jpg" alt="Yan Jiang" style="width: 200px; height: 200px; object-fit: cover; margin-right: 20px; border-radius: 5px;">
+  <img src="{{ "/images/people/yan.jpg" | relative_url }}" alt="Yan Jiang" style="width: 200px; height: 200px; object-fit: cover; margin-right: 20px; border-radius: 5px;">
   <div>
     <h3 style="margin-top: 0;">Yan Jiang (蒋颜)</h3>
     <p><strong>Visiting Postdoctoral Scholar</strong></p>
@@ -46,7 +46,7 @@ permalink: /people/
 ## PhD Students
 
 <div style="display: flex; align-items: start; margin-bottom: 2em;">
-  <img src="/images/people/aarabhi.jpeg" alt="Aarabhi Achanta" style="width: 200px; height: 200px; object-fit: cover; margin-right: 20px; border-radius: 5px;">
+  <img src="{{ "/images/people/aarabhi.jpeg" | relative_url }}" alt="Aarabhi Achanta" style="width: 200px; height: 200px; object-fit: cover; margin-right: 20px; border-radius: 5px;">
   <div>
     <h3 style="margin-top: 0;">Aarabhi Achanta</h3>
     <p><strong>PhD Student (Earth System Science)</strong></p>
@@ -59,7 +59,7 @@ permalink: /people/
 ## Masters Students
 
 <div style="display: flex; align-items: start; margin-bottom: 2em;">
-  <img src="/images/people/amelia.jpg" alt="Amelia Hawkins" style="width: 200px; height: 200px; object-fit: cover; margin-right: 20px; border-radius: 5px;">
+  <img src="{{ "/images/people/amelia.jpg" | relative_url }}" alt="Amelia Hawkins" style="width: 200px; height: 200px; object-fit: cover; margin-right: 20px; border-radius: 5px;">
   <div>
     <h3 style="margin-top: 0;">Amelia Hawkins</h3>
     <p><strong>Masters Student (Civil & Environmental Engineering)</strong></p>
@@ -72,7 +72,7 @@ permalink: /people/
 ## Undergraduate Students
 
 <div style="display: flex; align-items: start; margin-bottom: 2em;">
-  <img src="/images/people/leo.jpg" alt="Leo Abramsky-Sze" style="width: 200px; height: 200px; object-fit: cover; margin-right: 20px; border-radius: 5px;">
+  <img src="{{ "/images/people/leo.jpg" | relative_url }}" alt="Leo Abramsky-Sze" style="width: 200px; height: 200px; object-fit: cover; margin-right: 20px; border-radius: 5px;">
   <div>
     <h3 style="margin-top: 0;">Leo Abramsky-Sze</h3>
     <p><strong>King Center Undergraduate Researcher</strong></p>
