@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-![Research Doodle]({{ "/research-doodle/research-doodle.001.png" | relative_url }})
+![Research Doodle]({{ "/research-doodle.png" | relative_url }})
 
 Climate and food security are deeply intertwined: (1) Every human needs food to survive; nearly 1 in 8 don't have enough to eat on a daily basis. (2) No sector is more exposed than agriculture to climate variability and climate change; shifts in the physical environment over the past several decades have made it harder to produce enough food for the planet. (3) Agricultural production, biomass burning, and cropland expansion into forests and savannas are major sources of greenhouse gas emissions, air pollutants, and other forms of environmental degradation; many of agriculture's most damaging impacts are driven by poverty and food insecurity.
 
