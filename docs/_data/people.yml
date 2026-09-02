@@ -1,0 +1,177 @@
+# Group members, rendered by people.markdown. Order here is the display order.
+#
+# Current members appear as a photo grid, each with a detail modal:
+#
+#   id         anchor slug -- becomes /people/#person-<id>
+#   role       short label shown on the grid tile
+#   titles     full title line(s) shown in the modal
+#   bio        one entry per paragraph; inline HTML (links) is allowed
+#   education  optional -- omit entirely if not applicable
+#   links      optional -- shown after the email in the contact line
+#
+# To move someone to the Alumni list below the grid, add:
+#
+#   alumni: true
+#
+# Alumni are plain text -- no photo, modal or contact links -- so
+# photo/bio/education/email/links are ignored for them and can be deleted or
+# left in place. They show the full `titles` (there is room for it outside a
+# tile), falling back to `role` if titles is absent. Optionally add where they
+# are now:
+#
+#   current:
+#     text: Assistant Professor, Some University
+#     url: https://example.edu/their-page      # optional; omit for plain text
+#
+# The Alumni heading only renders when at least one person is tagged.
+
+- id: jen-burney
+  name: Jen Burney
+  photo: /images/people/jen.jpeg
+  role: Principal Investigator
+  titles:
+    - Professor, Global Environmental Policy and Earth System Science
+    - Deputy Director, Center on Food Security and the Environment
+  bio:
+    - >-
+      Loves science ⚛️, exploring our amazing planet 🌍, and the beautiful game ⚽.
+      Proud parent to the two greatest kids of all time.
+    - >-
+      Jen is a member of the Standing Panel on Impact Assessment
+      (<a href="https://iaes.cgiar.org/spia">SPIA</a>) of the CGIAR system, the
+      Food Security Leadership Council
+      (<a href="https://www.foodsecurityleadership.org/">FSLC</a>), and the
+      Center for Effective Global Action
+      (<a href="https://cega.berkeley.edu/">CEGA</a>), where she is co-chair of
+      the Digital Agricultural Innovations &amp; Services Initiative
+      (<a href="https://www.povertyactionlab.org/initiative/digital-agricultural-innovations-and-services-initiative-daisi">DAISI</a>).
+      Before joining the Doerr School in 2025, she spent 12 years on the faculty
+      at UC San Diego's School of Global Policy and Strategy
+      (<a href="https://gps.ucsd.edu/">GPS</a>) and the Scripps Institution of
+      Oceanography (<a href="https://scripps.ucsd.edu/">SIO</a>), and has been a
+      member of the National Geographic Explorers
+      (<a href="https://www.nationalgeographic.com/culture/topic/explorer">NGS</a>)
+      family since 2011.
+  education: BA, Harvard College (History & Science), 1999; PhD Stanford University (Physics), 2007
+  email: burney@stanford.edu
+  links:
+    - text: Stanford Profile
+      url: https://profiles.stanford.edu/jab
+
+- id: pascal-polonik
+  name: Pascal Polonik
+  photo: /images/people/pascal.jpg
+  role: Research Scholar
+  titles:
+    - Research Scholar
+  bio:
+    - >-
+      Pascal is a postdoc working to develop and apply statistical and numerical
+      models to study the climate and social impacts of greenhouse gases and
+      particulate matter. His research explores human-atmosphere interactions
+      and tries to uncover how human decisions may alter climate and equity
+      outcomes. In his free time he likes to hike with his wife and dog, run,
+      bike, travel, eat, and take pictures.
+  education: >-
+    BS, Environmental Sciences, BA, Atmospheric Sciences, minor in Energy and
+    Resources, UC Berkeley (2015); MS, Meteorology, LMU Munich (2017); PhD,
+    Climate Science, Scripps Institution of Oceanography (2023)
+  email: ppolonik@stanford.edu
+  links:
+    - text: Personal Website
+      url: https://ppolonik2.github.io/
+    - text: Stanford Profile
+      url: https://profiles.stanford.edu/pascal-polonik
+
+- id: yan-jiang
+  name: Yan Jiang (蒋颜)
+  photo: /images/people/yan.jpg
+  role: Postdoctoral Scholar
+  titles:
+    - Postdoctoral Scholar
+  bio:
+    - >-
+      Yan Jiang is a Hydroclimate Scientist who uses satellite remote sensing,
+      climate/physical models, and advanced statistical/AI techniques to quantify
+      agricultural vulnerability and improve the resilience of global water
+      systems. She is currently a Postdoctoral Scholar at UC San Diego (School of
+      Global Policy and Strategy &amp; Scripps Institution of Oceanography). She
+      completed her degrees in Atmospheric Science from UAlbany, SUNY (Ph.D.) and
+      Sun Yat-Sen University (B.S.). When she's not tracking rainfall, you might
+      find her chasing her doggie, Lily, "swagging" in a bubble tea store or
+      Trader Joe's, or struggling to find her way down a hiking or ski trail.
+  education: BS, Atmospheric Science, Sun Yat-Sen University, China; PhD, Atmospheric Science, SUNY-Albany
+  email: yaj007@ucsd.edu
+  links:
+    - text: Personal Website
+      url: https://yjiangc.github.io/
+    - text: LinkedIn
+      url: https://www.linkedin.com/in/yan-jiang-474615204/
+    - text: Google Scholar
+      url: https://scholar.google.com/citations?user=0VPzQ-MAAAAJ&hl=en
+
+- id: aarabhi-achanta
+  name: Aarabhi Achanta
+  photo: /images/people/aarabhi.jpeg
+  role: PhD Student (ESS)
+  titles:
+    - PhD Student (ESS)
+  bio:
+    - >-
+      Aarabhi Achanta is a researcher with a commitment to addressing critical
+      challenges in climate science and food security. She holds triple
+      bachelor's degrees in Physics, Astrophysics, and Applied Mathematics from
+      the University of California, Berkeley, where she cultivated a
+      comprehensive analytical background and honed expertise in quantitative
+      research, machine learning, and large-scale physical systems. Her
+      background working as an aerospace engineer and developing AI systems for
+      natural disaster detection has equipped her with a unique, applied
+      perspective to experimental and manufacturing systems. In her free time,
+      she enjoys dancing, backpacking, and art!
+  education: BS, Physics + Astrophysics + Applied Math, UC Berkeley
+  email: aarabhi@stanford.edu
+  links:
+    - text: LinkedIn
+      url: https://www.linkedin.com/in/aarabhi-achanta-3b24a4203/
+    - text: Personal Portfolio
+      url: https://aarabhi-achanta.github.io/
+
+- id: amelia-hawkins
+  alumni: true
+  name: Amelia Hawkins
+  photo: /images/people/amelia.jpg
+  role: Masters Student
+  titles:
+    - Masters Student (Civil & Environmental Engineering)
+  bio:
+    - >-
+      Amelia is an M.S. candidate in the Civil &amp; Environmental Engineering
+      department with a concentration in Atmosphere &amp; Energy, having just
+      completed her B.S. in Earth Systems. She is particularly interested in the
+      use of remote sensing and geospatial science in data analysis, especially
+      when it comes to topics like climate change and disaster relief, and is
+      excited to be working with the FSE. In her free time, she enjoys playing
+      ultimate frisbee, making maps, and exploring the outdoors.
+  education: BS, Earth Systems, Stanford (2025)
+  email: ahawk@stanford.edu
+  links:
+    - text: LinkedIn
+      url: https://www.linkedin.com/in/amelia-hawkins-945344303/
+
+- id: leo-abramsky-sze
+  alumni: true
+  name: Leo Abramsky-Sze
+  photo: /images/people/leo.jpg
+  role: King Ctr. Researcher
+  titles:
+    - King Center Undergraduate Researcher
+  bio:
+    - >-
+      Leo Abramsky-Sze is an undergraduate and prospective international
+      relations and history major. He is especially interested in international
+      law, humanitarian relief, and the politics of historical memory. In his
+      free time, he is an avid tennis player and backpacker.
+  email: leoasze@stanford.edu
+  links:
+    - text: Stanford Profile
+      url: https://profiles.stanford.edu/leo-abramsky-sze
