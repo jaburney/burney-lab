@@ -371,6 +371,10 @@ $prose-font-size: 18px;
   color: $text-color;
   transition: transform 0.15s ease;
 
+  &:visited {
+    color: $text-color;
+  }
+
   &:hover,
   &:focus {
     text-decoration: none;
@@ -396,11 +400,17 @@ $prose-font-size: 18px;
   transition: border-color 0.15s ease, box-shadow 0.15s ease;
 }
 
+// The name needs its own colour: as a bare <span> it inherited from the
+// wrapping <a>, where minima's `a:visited` (0,1,1) outranks `.person-tile`
+// (0,1,0) -- so tiles whose card had been opened turned blue while the rest
+// stayed black. darken($brand-color, 15%) is that same visited blue, and at
+// 7.1:1 on white it clears WCAG AA where the lighter #2a7ae2 (4.2:1) does not.
 .person-tile__name {
   display: block;
   font-size: 14px;
   font-weight: 600;
   line-height: 1.25;
+  color: darken($brand-color, 15%);
 }
 
 .person-tile__role {
