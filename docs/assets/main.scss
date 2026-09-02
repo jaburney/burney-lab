@@ -565,3 +565,17 @@ body.has-modal-open {
   font-size: 13px;
   color: $grey-color-dark;
 }
+
+// Stand-in tile for someone whose photo has not been added yet: initials on a
+// neutral square, same footprint as .person-tile__photo.
+.person-tile__photo--placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: lighten($grey-color-light, 3%);
+  color: $grey-color;
+  font-size: 30px;
+  font-weight: 300;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}

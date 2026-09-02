@@ -110,6 +110,34 @@
     - text: Google Scholar
       url: https://scholar.google.com/citations?user=0VPzQ-MAAAAJ&hl=en
 
+- id: melanie-gittard
+  name: Mélanie Gittard
+  photo: /images/people/melanie.jpg
+  role: FSE Postdoc
+  titles:
+    - Postdoctoral Scholar, Center on Food Security and the Environment
+  bio:
+    - >-
+      Mélanie is an applied environmental and development economist. Her
+      research examines how climate shocks affect migration, urbanization,
+      agricultural production, and food security in Sub-Saharan Africa,
+      alongside work on the health consequences of industrial mining and water
+      pollution. She is also a Research Affiliate of the
+      <a href="https://kingcenter.stanford.edu/">King Center on Global
+      Development</a> at Stanford and of the International Migration Economics
+      Chair at the Paris School of Economics.
+  education: >-
+    MS, Applied Mathematics and Engineering, Mines Nancy (2017), with a joint
+    Bachelor in Economics from Lorraine University; MA, Economics -- Public
+    Policy and Development, Paris School of Economics (2018); PhD, Economics,
+    Paris School of Economics, CIRED and ENPC (2023)
+  email: mgittard@stanford.edu
+  links:
+    - text: Personal Website
+      url: https://melaniegittard.github.io/
+    - text: Stanford Profile
+      url: https://profiles.stanford.edu/melanie-gittard
+
 - id: aarabhi-achanta
   name: Aarabhi Achanta
   photo: /images/people/aarabhi.jpeg

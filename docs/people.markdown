@@ -10,7 +10,12 @@ permalink: /people/
 <div class="people-grid">
   {%- for person in members %}
   <a class="person-tile" href="#person-{{ person.id }}" aria-label="Read more about {{ person.name }}">
+    {%- if person.photo %}
     <img class="person-tile__photo" src="{{ person.photo | relative_url }}" alt="{{ person.name }}" loading="lazy">
+    {%- else %}
+    {%- assign name_parts = person.name | split: " " -%}
+    <span class="person-tile__photo person-tile__photo--placeholder" aria-hidden="true">{{ name_parts[0] | slice: 0 }}{% if name_parts.size > 1 %}{{ name_parts[1] | slice: 0 }}{% endif %}</span>
+    {%- endif %}
     <span class="person-tile__name">{{ person.name }}</span>
     <span class="person-tile__role">{{ person.role }}</span>
   </a>
@@ -23,7 +28,9 @@ permalink: /people/
   <div class="person-modal__card">
     <a class="person-modal__close" href="#" aria-label="Close">&times;</a>
     <div class="person-modal__head">
+      {%- if person.photo %}
       <img class="person-modal__photo" src="{{ person.photo | relative_url }}" alt="{{ person.name }}" loading="lazy">
+      {%- endif %}
       <div>
         <h2 class="person-modal__name" id="person-{{ person.id }}-name">{{ person.name }}</h2>
         {%- for title in person.titles %}
