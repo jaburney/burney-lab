@@ -44,3 +44,87 @@ body.home .site-footer {
   margin-top: auto;
   padding-top: 10px;
 }
+
+// Landing page navigation cards
+$cardinal-color: #8c1515;
+
+.join-invite {
+  margin: $spacing-unit * 1.5 0 ($spacing-unit / 2) 0;
+  text-align: center;
+  font-size: 17px;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: $spacing-unit / 2;
+  margin: 0 0 $spacing-unit 0;
+
+  @include media-query($on-laptop) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 90px;
+  padding: $spacing-unit / 2;
+  border: 1px solid $grey-color-light;
+  border-radius: 6px;
+  text-align: center;
+  text-decoration: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+    border-color: $cardinal-color;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+  }
+
+  .card-title {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.35;
+    color: $cardinal-color;
+  }
+}
+
+// Prospective PhD page: program list
+.program-list {
+  margin-bottom: $spacing-unit;
+
+  > li {
+    margin-bottom: $spacing-unit / 2;
+  }
+}
+
+.program-name {
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: $cardinal-color;
+
+  a,
+  a:visited {
+    color: $cardinal-color;
+  }
+
+  a:hover {
+    color: darken($cardinal-color, 12%);
+  }
+}
+
+// Inline links in the cardinal accent color
+a.cardinal-link,
+a.cardinal-link:visited {
+  color: $cardinal-color;
+}
+
+a.cardinal-link:hover {
+  color: darken($cardinal-color, 12%);
+}

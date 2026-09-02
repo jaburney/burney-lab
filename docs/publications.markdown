@@ -38,7 +38,7 @@ permalink: /publications/
 
 17. C. Hong, H. Zhao, Y. Qin, Q. Zhang, J. Burney, J. Pongratz, K. Hartung, N. Moore, R. Jackson, S. Davis. Land-use emissions embodied in international trade, *Science* (2022). DOI: [10.1126/science.abj1572](https://doi.org/10.1126/science.abj1572)
 
-18. R. Bluhm, P. Polonik, K. Hemes, R. Sanford, S. Benz, M. Levy, K. Ricke, J. Burney. Disparate air pollution reductions during California's COVID-19 economic shutdown, *Nature Sustainability* (2022). DOI: [10.1038/s41893-022-00856-1](https://doi.org/10.1038/s41893-022-00856-1)
+18. R. Bluhm, P. Polonik, K. Hemes, L. Sanford, S. Benz, M. Levy, K. Ricke, J. Burney. Disparate air pollution reductions during California's COVID-19 economic shutdown, *Nature Sustainability* (2022). DOI: [10.1038/s41893-022-00856-1](https://doi.org/10.1038/s41893-022-00856-1)
 
 19. P. Zhu, J. Burney. Untangling irrigation effects on maize water and heat stress alleviation using satellite data, *Hydrology and Earth System Science* (2022). DOI: [10.5194/hess-26-827-2022](https://doi.org/10.5194/hess-26-827-2022)
 
@@ -50,13 +50,13 @@ permalink: /publications/
 
 23. S. Benz, K. Davis, J. Burney. Drivers and Projections of Global Surface Temperature Anomalies at the Local Scale, *Environmental Research Letters* (2021). DOI: [10.1088/1748-9326/ac0661](https://doi.org/10.1088/1748-9326/ac0661)
 
-24. A. Gori Maia, J. Burney, D. Martinez, R. Cesano. Improving production and quality of life for smallholder farmers through a climate resilience program: an experience in the Brazilian Sertão, *PLoS One* (2021). DOI: [10.1371/journal.pone.0251531](https://doi.org/10.1371/journal.pone.0251531)
+24. A. Gori Maia, J. Burney, D. Martinez, D. Cesano. Improving production and quality of life for smallholder farmers through a climate resilience program: an experience in the Brazilian Sertão, *PLoS One* (2021). DOI: [10.1371/journal.pone.0251531](https://doi.org/10.1371/journal.pone.0251531)
 
 25. P. Polonik, K. Ricke, J. Burney. Paris Agreement's ambiguity about aerosols drives uncertain health and climate outcomes, *Earth's Future* (2021). DOI: [10.1029/2020EF001787](https://doi.org/10.1029/2020EF001787)
 
 26. B. Krebs, J. Burney, J. Graff Zivin, M. Neidell. Using crowd-sourced data to assess the temporal and spatial relationship between indoor and outdoor particulate matter, *Environmental Science & Technology* (2021). DOI: [10.1021/acs.est.0c08469](https://doi.org/10.1021/acs.est.0c08469)
 
-27. A. Gori-Maia, L. Fonseca, G. Lanna, J. Burney, R. Cesano. Climate Resilience Programs and Technical Efficiency: Evidence from the Smallholder Dairy Farmers in the Brazilian Semi-Arid Region, *Climate & Development* (2021). DOI: [10.1080/17565529.2021.1904812](https://doi.org/10.1080/17565529.2021.1904812)
+27. A. Gori-Maia, L. Fonseca, G. Lanna, J. Burney, D. Cesano. Climate Resilience Programs and Technical Efficiency: Evidence from the Smallholder Dairy Farmers in the Brazilian Semi-Arid Region, *Climate & Development* (2021). DOI: [10.1080/17565529.2021.1904812](https://doi.org/10.1080/17565529.2021.1904812)
 
 28. R. Neely, A. Borsa, J. Burney, M. Levy, K. Silverii, M. Sneed. Characterization of groundwater recharge and flow in California's San Joaquin Valley from InSAR-observed surface deformation, *Water Resources Research* (2021). DOI: [10.1029/2020WR028451](https://doi.org/10.1029/2020WR028451)
 
@@ -80,7 +80,7 @@ permalink: /publications/
 
 38. J. Burney. The downstream air pollution impacts of the transition from coal to natural gas in the United States, *Nature Sustainability* (2020). DOI: [10.1038/s41893-019-0453-5](https://doi.org/10.1038/s41893-019-0453-5)
 
-39. R. Hernandez et al.. Techno-ecological synergies of solar energy for global sustainability, *Nature Sustainability* (2019). DOI: [10.1038/s41893-019-0309-z](https://doi.org/10.1038/s41893-019-0309-z)
+39. R. Hernandez, A. Armstrong, J. Burney, G. Ryan, K. Moore-O’Leary, I. Diédhiou, S. Grodsky, L. Saul-Gershenz, R. Davis, J. Macknick, D. Mulvaney, G. Heath, S. Easter, M. Hoffacker, M. Allen, D. Kammen. Techno-ecological synergies of solar energy for global sustainability, *Nature Sustainability* (2019). DOI: [10.1038/s41893-019-0309-z](https://doi.org/10.1038/s41893-019-0309-z)
 
 40. H. Alaofè, J. Burney, R. Naylor, D. Taren, The impact of a Solar Market Garden programme on dietary diversity, women's nutritional status and micronutrient levels in Kalalé district of northern Benin, *Public Health Nutrition* (2019). DOI: [10.1017/S1368980019001599](https://doi.org/10.1017/S1368980019001599)
 
@@ -92,29 +92,29 @@ permalink: /publications/
 
 44. C. Adida, J. Chabi Bouko, F. Verink, A. Chockalingam, J. Burney. Pilot of a Mobile Money School Fee Payment System in Rural Benin, *PLoS One* (2018). DOI: [10.1371/journal.pone.0198240](https://doi.org/10.1371/journal.pone.0198240)
 
-45. J. Burney, A. Phillips, T. Lahl. Assessing the productivity and profitability of the Solar Market Garden, *Development Engineering* (2018). DOI: [10.1016/j.deveng.2018.01.002](https://doi.org/10.1016/j.deveng.2018.01.002)
+45. J. Burney, A. Phillips, J. Lahl. Assessing the productivity and profitability of the Solar Market Garden, *Development Engineering* (2018). DOI: [10.1016/j.deveng.2018.01.002](https://doi.org/10.1016/j.deveng.2018.01.002)
 
 46. R. Goldblatt, M. Rivera Ballesteros, J. Burney. High spatial resolution visual band imagery outperforms medium resolution spectral imagery for ecosystem assessment in the semi-arid Brazilian Sertão, *Remote Sensing* (2017). DOI: [10.3390/rs9121336](https://doi.org/10.3390/rs9121336)
 
-47. J. Burney, H. Alaofe, D. Taren, R. Naylor. Impact of a rural solar electrification project on the level and structure of women's empowerment, *Environmental Research Letters* (2017). DOI: [10.1088/1748-9326/aa7f38](https://doi.org/10.1088/1748-9326/aa7f38)
+47. J. Burney, H. Alaofè, D. Taren, R. Naylor. Impact of a rural solar electrification project on the level and structure of women's empowerment, *Environmental Research Letters* (2017). DOI: [10.1088/1748-9326/aa7f38](https://doi.org/10.1088/1748-9326/aa7f38)
 
-48. H. Alaofe, Y. Zhu, J. Burney, R. Naylor, D. Taren. Association between Women's empowerment and Maternal and Child Nutrition in Kalalé District of Northern Benin, *Food and Nutrition Bulletin* (2017). DOI: [10.1177/0379572117704318](https://doi.org/10.1177/0379572117704318)
+48. H. Alaofè, Y. Zhu, J. Burney, R. Naylor, D. Taren. Association between Women's empowerment and Maternal and Child Nutrition in Kalalé District of Northern Benin, *Food and Nutrition Bulletin* (2017). DOI: [10.1177/0379572117704318](https://doi.org/10.1177/0379572117704318)
 
 49. E. Matios, J. Burney. Ecosystem Services Mapping for Sustainable Agricultural Water Management in California's Central Valley, *Environmental Science & Technology* (2017). DOI: [10.1021/acs.est.6b05426](https://doi.org/10.1021/acs.est.6b05426)
 
-50. H. Alaofe, J. Burney, R. Naylor, D. Taren, Prevalence of Anemia. Deficiencies of Iron and Vitamin A and Their Determinants in Rural Women and Young Children: A Cross-sectional Study in Kalalé District of Northern Benin, *Public Health Nutrition* (2017). DOI: [10.1017/S1368980016003608](https://doi.org/10.1017/S1368980016003608)
+50. H. Alaofè, J. Burney, R. Naylor, D. Taren, Prevalence of Anemia. Deficiencies of Iron and Vitamin A and Their Determinants in Rural Women and Young Children: A Cross-sectional Study in Kalalé District of Northern Benin, *Public Health Nutrition* (2017). DOI: [10.1017/S1368980016003608](https://doi.org/10.1017/S1368980016003608)
 
-51. H. Alaofe, J. Burney, R. Naylor, D. Taren. Solar-powered drip irrigation impacts on crops production diversity and dietary diversity in Northern Benin, *Food and Nutrition Bulletin* (2016). DOI: [10.1177/0379572116639710](https://doi.org/10.1177/0379572116639710)
+51. H. Alaofè, J. Burney, R. Naylor, D. Taren. Solar-powered drip irrigation impacts on crops production diversity and dietary diversity in Northern Benin, *Food and Nutrition Bulletin* (2016). DOI: [10.1177/0379572116639710](https://doi.org/10.1177/0379572116639710)
 
 52. A. Lamb, P. Green, T. Bateman, M. Broadmeadow, T. Bruce, J. Burney, P. Carey, D. Chadwick, E. Crane, R. Field, J. Goulding, H. Griffiths, A. Hastings, T. Kasoar, R. Kindred, B. Phalan, J. Pickett, P. Smith, J. Wall, F. zu Ermgassen, A. Balmford. The potential for land sparing to offset greenhouse gas emissions from agriculture, *Nature Climate Change* (2016). DOI: [10.1038/nclimate2910](https://doi.org/10.1038/nclimate2910)
 
-53. T. Sanford, J. Burney. Cookstoves Illustrate the Need for a Comprehensive Carbon Market, *Environmental Research Letters* (2015). DOI: [10.1088/1748-9326/10/8/084026](https://doi.org/10.1088/1748-9326/10/8/084026)
+53. L. Sanford, J. Burney. Cookstoves Illustrate the Need for a Comprehensive Carbon Market, *Environmental Research Letters* (2015). DOI: [10.1088/1748-9326/10/8/084026](https://doi.org/10.1088/1748-9326/10/8/084026)
 
 54. J. Burney, V. Ramanathan. Recent Climate and Air Pollution Impacts on Indian Agriculture, *Proceedings of the National Academy of Sciences* (2014). DOI: [10.1073/pnas.1409388111](https://doi.org/10.1073/pnas.1409388111)
 
 55. S. Davis, J. Burney, J. Pongratz, K. Caldeira. Methods for attributing land-use emissions to products, *Carbon Management* (2014). DOI: [10.1080/17583004.2014.913867](https://doi.org/10.1080/17583004.2014.913867)
 
-56. J. Burney, R. Cesano, J. Russell, E. La Rovere, T. Corral, N. Coelho, L. Santos. Climate change adaptation strategies for smallholder farmers in the Brazilian Sertao, *Climatic Change* (2014). DOI: [10.1007/s10584-014-1186-0](https://doi.org/10.1007/s10584-014-1186-0)
+56. J. Burney, D. Cesano, J. Russell, E. La Rovere, T. Corral, N. Coelho, L. Santos. Climate change adaptation strategies for smallholder farmers in the Brazilian Sertao, *Climatic Change* (2014). DOI: [10.1007/s10584-014-1186-0](https://doi.org/10.1007/s10584-014-1186-0)
 
 57. J. Burney, R. Naylor, S. Postel. The case for distributed irrigation as a development priority in sub-Saharan Africa, *Proceedings of the National Academy of Sciences* (2013). DOI: [10.1073/pnas.1231596110](https://doi.org/10.1073/pnas.1231596110)
 
