@@ -37,7 +37,17 @@ permalink: /people/
     {%- if person.education %}
     <p><strong>Education:</strong> {{ person.education }}</p>
     {%- endif %}
-    <p><strong>Contact:</strong> {{ person.email }}{% for link in person.links %} | <a href="{{ link.url }}">{{ link.text }}</a>{% endfor %}</p>
+    {%- capture contact -%}
+      {%- if person.email -%}{{ person.email }}{%- endif -%}
+      {%- for link in person.links -%}
+        {%- if person.email or forloop.first == false %} | {% endif -%}
+        <a href="{{ link.url }}">{{ link.text }}</a>
+      {%- endfor -%}
+    {%- endcapture -%}
+    {%- assign contact = contact | strip %}
+    {%- if contact != "" %}
+    <p><strong>Contact:</strong> {{ contact }}</p>
+    {%- endif %}
   </div>
 </div>
 {%- endfor %}

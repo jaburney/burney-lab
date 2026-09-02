@@ -136,6 +136,29 @@
     - text: Personal Portfolio
       url: https://aarabhi-achanta.github.io/
 
+- id: abigail-fitzgibbon
+  name: Abigail Fitzgibbon
+  photo: /images/people/abigail.jpg
+  role: PhD Student (E-IPER)
+  titles:
+    - PhD Student (E-IPER)
+  bio:
+    - >-
+      Abby is an E-IPER PhD student whose research focuses on the climate
+      impacts of food systems and agriculture’s potential as a climate
+      mitigator. She studies enhanced rock weathering (ERW) on croplands,
+      biochar, and fermentation of waste streams, and is also working to
+      generate new estimates of emissions from food loss and waste around the
+      world.
+  education: >-
+    BA, Physical Geography and Geospatial Science, UCLA; Master's,
+    Environmental Policy (agriculture and economics), Sciences Po Paris School
+    of International Affairs
+  email: afitzgib@stanford.edu
+  links:
+    - text: Stanford Profile
+      url: https://profiles.stanford.edu/abigail-fitzgibbon
+
 - id: amelia-hawkins
   alumni: true
   name: Amelia Hawkins
