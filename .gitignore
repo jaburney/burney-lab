@@ -1,0 +1,4 @@
+.DS_Store
+
+# Source documents for site content — kept locally, not published
+*.rtf
