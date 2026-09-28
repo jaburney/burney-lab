@@ -9,14 +9,15 @@ permalink: /people/
 
 <div class="people-grid">
   {%- for person in members %}
+  {%- assign name_parts = person.name | split: " " %}
   <a class="person-tile" href="#person-{{ person.id }}" aria-label="Read more about {{ person.name }}">
     {%- if person.photo %}
     <img class="person-tile__photo" src="{{ person.photo | relative_url }}" alt="{{ person.name }}" loading="lazy">
     {%- else %}
-    {%- assign name_parts = person.name | split: " " -%}
     <span class="person-tile__photo person-tile__photo--placeholder" aria-hidden="true">{{ name_parts[0] | slice: 0 }}{% if name_parts.size > 1 %}{{ name_parts[1] | slice: 0 }}{% endif %}</span>
     {%- endif %}
-    <span class="person-tile__name">{{ person.name }}</span>
+    {%- comment %} Given name on the first line, the rest of the name on the second. {% endcomment %}
+    <span class="person-tile__name">{{ name_parts | first }}<br>{{ person.name | remove_first: name_parts[0] | strip }}</span>
     <span class="person-tile__role">{{ person.role }}</span>
   </a>
   {%- endfor %}
