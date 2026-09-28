@@ -188,6 +188,78 @@
     - text: Stanford Profile
       url: https://profiles.stanford.edu/abigail-fitzgibbon
 
+- id: siddharth-sachdeva
+  name: Siddharth Sachdeva
+  photo: /images/people/sidd.jpg
+  role: PhD Student (E-IPER)
+  titles:
+    - PhD Student (E-IPER)
+  bio:
+    - >-
+      Sidd is an E-IPER PhD candidate supervised by David Lobell and Gretchen
+      Daily. He works on remote sensing identification of individual
+      indigenous fruit tree species in India, and development of market
+      aggregation strategies so that smallholders can more effectively monetize
+      tree fruit crops. He is working on projects identifying, aggregating, and
+      processing tree crops for school meals in several regions of India and
+      developing better models to understand the climate (and food security)
+      resilience of indigenous crops.
+  education: BS, Statistics, University of Chicago (2018)
+  email: siddsach@stanford.edu
+  links:
+    - text: Personal Website
+      url: https://siddsach.github.io/
+
+- id: oluwafunmibi-asunmonu
+  name: Oluwafunmibi Asunmonu
+  photo: /images/people/funmibi.jpg
+  role: Masters Student (E-IPER)
+  titles:
+    - Masters Student (E-IPER)
+  bio:
+    - >-
+      Funmibi is a Stanford Master’s student designing financial and
+      risk-management tools to help farmers, governments, and businesses
+      respond to climate risks while strengthening food-system resilience.
+      Before Stanford, she worked across 16 African countries with Pula, where
+      she developed and scaled agricultural and climate insurance solutions
+      reaching millions of smallholder farmers, including a $35 million cyclone
+      insurance product financed by the World Bank. In the US, she worked with
+      Climate Policy Initiative (CPI) to develop a toolkit for the coalition of
+      finance ministers and publish an insurance roadmap for public development
+      banks. She is currently exploring how investment in post-harvest
+      processing and risk management can make African food systems more
+      resilient.
+  education: >-
+    Dual Master’s, International Policy &amp; E-IPER, Stanford University; Swiss
+    Re Foundation Fellowship, African Leadership University
+  email: funmibi@stanford.edu
+  links:
+    - text: Stanford Profile
+      url: https://profiles.stanford.edu/oluwafunmibi-asunmonu
+    - text: LinkedIn
+      url: https://www.linkedin.com/in/oluwafunmibiasunmonu2017031001
+
+- id: jordan-stock
+  name: Jordan Stock
+  photo: /images/people/jordan.jpeg
+  role: Masters Student (MPP)
+  titles:
+    - Masters Student (Public Policy)
+  bio:
+    - >-
+      Jordan Stock is excited to work on important issues facing food security
+      and the planet. She holds a B.S. in Earth Systems (also from Stanford) and
+      is currently pursuing a Master’s in Public Policy. She plans to spend her
+      career making food systems more sustainable and resilient and is
+      especially passionate about the protein transition. In her free time, she
+      enjoys trail running, hiking, exploring nature, and veganism.
+  education: BS, Earth Systems, Stanford
+  email: jstock@stanford.edu
+  links:
+    - text: LinkedIn
+      url: https://www.linkedin.com/in/jordan-stock03
+
 - id: amelia-hawkins
   alumni: true
   name: Amelia Hawkins
