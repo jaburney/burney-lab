@@ -260,6 +260,30 @@
     - text: LinkedIn
       url: https://www.linkedin.com/in/jordan-stock03
 
+- id: benson-adomako
+  name: Benson Adomako
+  photo: /images/people/benson.jpg
+  role: Research Data Analyst
+  titles:
+    - Research Data Analyst
+  bio:
+    - >-
+      Benson is a Research Data Analyst working on research that combines
+      satellite data, household surveys, and econometric methods to study the
+      impacts of climate on people, agriculture and food systems. His work
+      centers on building and analyzing large geospatial and household
+      datasets, with projects spanning Africa and South Asia. His broader
+      research interests include climate risk, food security, agricultural
+      productivity, and applied machine learning. Outside of work, he is an
+      avid soccer fan and enjoys working out.
+  education: >-
+    BSc, Agricultural Economics, University of Ghana; MS, International and
+    Development Economics, University of San Francisco
+  email: adomako@stanford.edu
+  links:
+    - text: LinkedIn
+      url: https://www.linkedin.com/in/benson-adomako-5612561ba
+
 - id: amelia-hawkins
   alumni: true
   name: Amelia Hawkins
